@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,13 +14,13 @@ Besdies academics, I love swimming, drumming and sleeping (yes!). If you want to
 Education
 =========
 * **M.S. (Research)**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/){:target="_blank"}, CGPA: (9.5/10), [Aug. 2021 - Present]
-* **B.Tech**: Information Technology, [Kalyani Government Engineering College](https://www.kgec.edu.in/){:target="_blank"}, CGPA: (8.28/10), [June 2017 - July 2021]
+* **B.Tech.**: Information Technology, [Kalyani Government Engineering College](https://www.kgec.edu.in/){:target="_blank"}, CGPA: (8.28/10), [June 2017 - July 2021]
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Experience
+=========
+* **Deep Learning Intern**, [DynamoFL - YC'22 Startup](https://www.dynamofl.com/), [Feb. 2022  - May 2022]
+* **Technical Content Writer**, [Spiritwish](https://www.spiritwish.co/), [Apr. 2021 - June 2021]
+* **Computer Vision Intern**, [Vidgyor Media Technologies]([https://www.vidgyor.com/](https://vidgyor.com/), [Dec. 2019 - Feb. 2020]
 
 Getting started
 ======
