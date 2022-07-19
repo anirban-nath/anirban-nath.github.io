@@ -13,8 +13,8 @@ Besdies academics, I love swimming, drumming and sleeping (yes!). If you want to
 
 Education
 =========
-* **M.S. (Research)**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), CGPA: (9.5/10), [Aug. 2021 - Present]
-* **B.Tech**: Information Technology, [Kalyani Government Engineering College]((https://www.kgec.edu.in/)), CGPA: (8.28/10), [June 2017 - July 2021]
+* **M.S. (Research)**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/){:target="_blank"}, CGPA: (9.5/10), [Aug. 2021 - Present]
+* **B.Tech**: Information Technology, [Kalyani Government Engineering College](https://www.kgec.edu.in/){:target="_blank"}, CGPA: (8.28/10), [June 2017 - July 2021]
 
 A data-driven personal website
 ======
