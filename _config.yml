@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Anirban Nath"
-  avatar           : "profile.png"
+  avatar           : "AnirbanNath.jpg"
   bio              : Pursuing MS in Computer Science @ IIT Indore
   location         : "Indore"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "rupu.ani [at] gmail [dot] com"
+  email            :  "rupu.ani@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Anirban Nath"
+  github           : "anirban-nath"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "instagram.com/hey.asl24"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-#   orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "linkedin.com/in/anirban-nath-11959273"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-#   twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
