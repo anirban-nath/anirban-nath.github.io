@@ -14,13 +14,13 @@ Besdies academics, I love swimming, drumming and sleeping (yes!). If you want to
 Education
 =========
 * **M.S. (Research)**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/){:target="_blank"}, CGPA: (9.5/10), [Aug. 2021 - Present]
-* **B.Tech.**: Information Technology, [Kalyani Government Engineering College](https://www.kgec.edu.in/){:target="_blank"}, CGPA: (8.28/10), [June 2017 - July 2021]
+* **B.Tech**: Information Technology, [Kalyani Government Engineering College](https://www.kgec.edu.in/){:target="_blank"}, CGPA: (8.28/10), [June 2017 - July 2021]
 
 Experience
 =========
-* Deep Learning Intern, [DynamoFL - YC'22 Startup](https://www.dynamofl.com/){:target="_blank"}, [Feb. 2022  - May 2022]
-* Technical Content Writer, [Spiritwish](https://www.spiritwish.co/){:target="_blank"}, [Apr. 2021 - June 2021]
-* Computer Vision Intern, [Vidgyor Media Technologies](https://vidgyor.com/){:target="_blank"}, [Dec. 2019 - Feb. 2020]
+* **Deep Learning Intern**, [DynamoFL - YC'22 Startup](https://www.dynamofl.com/){:target="_blank"}, [Feb. 2022  - May 2022]
+* **Technical Content Writer**, [Spiritwish](https://www.spiritwish.co/){:target="_blank"}, [Apr. 2021 - June 2021]
+* **Computer Vision Intern**, [Vidgyor Media Technologies](https://vidgyor.com/){:target="_blank"}, [Dec. 2019 - Feb. 2020]
 
 Some Achievements
 ==========================
