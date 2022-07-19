@@ -7,8 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a final year master's student at Indian Institute of Technology (IIT) Indore. My current academic research deals with the applications of Federated Learning and Differential Privacy in Medical Imaging. While my proficieny is in Computer Vision, I also have experience with NLP workflows courtesy of a few internship experiences listed below. (Does that make me a full stack AI engineer?) 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Besdies academics, I love swimming, drumming and sleeping (yes!). If you want to connect, feel free to hit me up on any of my socials listed alongside. Also, you can consider this page a brief of my CV. For a more detailed one, click on the link to your left.
+
+Education
+=========
+* **M.S. (Research)**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), CGPA: (9.5/10), [Aug. 2021 - Present]
+* **B.Tech**: Information Technology, [Kalyani Government Engineering College]((https://www.kgec.edu.in/)), CGPA: (8.28/10), [June 2017 - July 2021]
 
 A data-driven personal website
 ======
