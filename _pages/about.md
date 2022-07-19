@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final year master's student at Indian Institute of Technology (IIT) Indore. My current academic research deals with the applications of Federated Learning and Differential Privacy in Medical Imaging. While my proficieny is in Computer Vision, I also have experience with NLP workflows. Please refer to my CV for specifics.
+I am a final year master's student at Indian Institute of Technology (IIT) Indore. My current academic research deals with the applications of Federated Learning and Differential Privacy in Medical Imaging. While my proficieny is in Computer Vision, I also have experience with NLP workflows. To know more, please download my detailed CV by cliking on the link given above.
 
-Besdies academics, I love swimming, drumming and sleeping (yes!). If you want to connect, feel free to hit me up on any of my socials listed alongside. Also, you can consider this page a brief of my résumé. For a more detailed one, click on the tab above.
+Besdies academics, I love swimming, drumming and sleeping (yes!). If you want to connect, feel free to hit me up on any of my socials listed alongside.
 
 Education
 =========
